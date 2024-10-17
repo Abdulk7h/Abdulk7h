@@ -1,6 +1,6 @@
 - 👋 Welcome to my profile!
 - 👋 Hi, I’m @Abdulk7h
-- 👀 I’m interested in Coading 
+- 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Java 
 - 🌐 Full Stack Web Developer
 - 🎨 UI/UX Designer
